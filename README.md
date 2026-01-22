@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Healthcare Eligibility Ingestion Pipeline
 
 ### How to Run
@@ -27,3 +28,6 @@
 - Rows missing `external_id` are dropped
 - Invalid date or phone formats result in null values
 - This design can easily be extended to log errors for auditing
+=======
+# healthcare-eligibility-pipeline
+>>>>>>> aa73631b30168b000e64f8efb6601e3728ef7725
